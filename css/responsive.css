@@ -1,0 +1,40 @@
+
+@media only screen and (max-width: 600px) {
+  .footer-social-info p{
+     font-size: 8px;
+  }
+  .header-area .academy-main-menu .classy-navbar{
+  	height: 45px;
+    position:fixed;
+  	top: 0px;
+   background-color: transparent;
+
+  
+  }
+  .header-area .is-sticky .academy-main-menu{
+  	height: 45px;
+    position:fixed;
+  	top: 0px;
+  	border-bottom: 3px solid #021058;
+  	
+  }
+ 
+  .hero-slides .single-hero-slide{
+      height:300px;
+  }
+  .hero-slides-content.mybanner{
+    width:100%;
+    height:200px;
+    
+   }
+    .header-area .is-sticky .academy-logo {
+        display:none;
+    }
+ .carousel-inner img{
+     height:175px;
+ }
+ .bg3-img{
+     height:150px;
+ }
+
+}
